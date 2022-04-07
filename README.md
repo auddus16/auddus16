@@ -1,5 +1,8 @@
 ### MYONGYEON HWANG 👋
 ### 🌱 I’m currently learning ...
+## 안녕하세요! 개발자를 꿈꾸는 황명연입니다!
+### 📫 How to reach me
+## auddus16@naver.com
 <!--
 **auddus16/auddus16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
