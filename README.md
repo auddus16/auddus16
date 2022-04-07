@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### MYONGYEON HWANG 👋
+### 🌱 I’m currently learning ...
 <!--
 **auddus16/auddus16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 😄 Features
+![Myongyeon Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=auddus16&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auddus16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
