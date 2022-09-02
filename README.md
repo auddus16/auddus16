@@ -1,7 +1,5 @@
 ### MYONGYEON HWANG 👋
-### 🌱 I’m currently learning ...
-### 📫 How to reach me
-#### auddus16@naver.com
+
 <!--
 **auddus16/auddus16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=Elastic&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elastic&logoColor=white"/> <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+
 ## 😄 Features
 ![Myongyeon Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=auddus16&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auddus16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
